@@ -1,0 +1,15 @@
+iphone.glb (optimized) and iphone.original.glb
+  This work is based on "Apple iPhone 13 Pro Max"
+  (https://sketchfab.com/3d-models/apple-iphone-13-pro-max-4328dea00e47497dbeac73c556121bc9)
+  by DatSketch (https://sketchfab.com/DatSketch)
+  licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/).
+  Changes: stock wallpaper removed, screen UVs remapped, recentered, rescaled,
+  meshopt-compressed. iphone.glb is a further gltf-transform optimize of that original.
+
+pixel.glb (optimized) and pixel.original.glb
+  This work is based on "Google Pixel 9 & Pixel 9 Pro(Low Poly)"
+  (https://sketchfab.com/3d-models/google-pixel-9-pixel-9-prolow-poly-4533d22cd0d9473ba6a26fa1d20d76da)
+  by s12311061 (https://sketchfab.com/s12311061)
+  licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/).
+  Changes: Pixel 9 removed (Pixel 9 Pro only), screen UVs remapped, recentered,
+  rescaled, meshopt-compressed. pixel.glb is a further gltf-transform optimize of that original.
